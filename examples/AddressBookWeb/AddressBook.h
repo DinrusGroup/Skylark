@@ -7,7 +7,7 @@
 
 using namespace Upp;
 
-#define  MODEL <AddressBookWeb/Model.sch>
+#define  MODEL <examples/AddressBookWeb/Model.sch>
 
 #define  SCHEMADIALECT <plugin/sqlite3/Sqlite3Schema.h>
 #include <Sql/sch_header.h>
